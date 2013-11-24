@@ -12,3 +12,6 @@ website-navigation:
 
 website-links:
     help: Linking to pages and sections.
+
+assertions:
+    help: Making assertions in jinja templates.
