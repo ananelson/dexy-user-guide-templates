@@ -1,2 +1,14 @@
 custom-names:
-    help: foo
+    help: Use string interpolation in output-name setting.
+
+website-simple:
+    help: Apply a very simple website template.
+
+website-sections:
+    help: Create website template which works with sectioned content.
+
+website-navigation:
+    help: Website template with navigation examples.
+
+website-links:
+    help: Linking to pages and sections.
