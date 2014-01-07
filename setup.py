@@ -13,7 +13,7 @@ setup(
         install_requires = [
             ],
         name='dexy_user_guide_templates',
-        packages=find_packages(),
+        packages=['dexy_user_guide_templates'],
         url="http://dexy.it",
-        version="0.0.3a"
+        version="0.0.5"
         )
